@@ -1,5 +1,25 @@
 /* your code here */
 
+/* header {
+	display: block;
+} */
+
+nav,
+section {
+	display: inline;
+	float: left;
+}
+
+nav {
+	width: 20%;
+	/* position: fixed; */
+}
+
+section {
+	width: 80%;
+	/* position: fixed; */
+}
+
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
